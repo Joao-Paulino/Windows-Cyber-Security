@@ -19,6 +19,9 @@ https://github.com/denandz
 
 https://lolbas-project.github.io/
 
+https://github.com/GhostPack/PSPKIAudit
+
+
 
 
 
