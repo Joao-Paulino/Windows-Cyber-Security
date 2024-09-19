@@ -1,4 +1,4 @@
-# Windows-CyberSecurity
+# Windows Cyber Security
 Windows Cybersecurity Materials and so on
 
 https://github.com/PowerShellMafia
